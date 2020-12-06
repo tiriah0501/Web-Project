@@ -70,4 +70,11 @@
   }
 }
 
+p{
+  color: rgb(6, 97, 97);
+}
+
+.featurette-divider {
+  margin: 5rem 0; 
+}
 .overflow-hidden { overflow: hidden; }
