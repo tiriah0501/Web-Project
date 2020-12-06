@@ -52,12 +52,13 @@
   right: auto;
   bottom: 0;
   left: 5%;
-  background-color: #e5e5e5;
+  background-color: #d7dfe0;
 }
 
 /*
  * Extra utilities
  */
+
 
 .flex-equal > * {
   -ms-flex: 1;
@@ -70,11 +71,29 @@
   }
 }
 
+h1{
+  background-color: rgb(12, 181, 211);
+  font-family: 'Press Start 2P', cursive;
+}
+
 p{
   color: rgb(6, 97, 97);
+}
+
+.lead strong{
+  color: black;
 }
 
 .featurette-divider {
   margin: 5rem 0; 
 }
+
+.you-tube{
+  width: 100%;
+}
+
+.centered-heading{
+  margin: 0 auto 1rem;
+}
+
 .overflow-hidden { overflow: hidden; }
